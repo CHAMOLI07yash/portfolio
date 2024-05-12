@@ -1,0 +1,59 @@
+[
+    {
+      "title": " Elite Escape Retreats Hub ",
+      "imageSrc": "projects/project.png",
+      "description": " A full stack website of tours and travelsImplemented with html ,css ,js ,nodejs ,express,mongodb.used a shared database at Mongodb Atlas.Authentication by passport",
+      "skills": ["React", "Express", "Node","MongoDB","EJS"],
+      "demo": "https://delta-project-major-website.onrender.com/listings",
+      "source": "https://github.com/CHAMOLI07yash/major_project_website"
+    },
+
+
+    {
+      "title": " Weather app  ",
+      "imageSrc": "projects/project.png",
+      "description": "A react website that tell the most correct temp and weather of any place",
+      "skills": ["React", "Express"],
+      "demo": "#",
+      "source": "https://github.com/CHAMOLI07yash/weatherapp"
+    }, 
+    
+    
+    {
+      "title": " ANPR ",
+      "imageSrc": "projects/project.png",
+      "description": " Developed an ANPR system ,Designed and implemented image preprocessing techniques to enhance number plate  ",
+      "skills": ["Python","OpenCV", "PyTorch", "Jupyter lab"],
+      "demo": "#",
+      "source": "https://github.com/CHAMOLI07yash/anpr"
+    }, 
+    
+    
+    {
+      "title": " Voice Assistant using Python ",
+      "imageSrc": "projects/project.png",
+      "description": " This is a simple voice assistant script written in Python that interacts with the user through speech recognition and text-to-speech capabilities. The assistant is activated by saying 'Alexa' and can perform various tasks like playing songs on YouTube, telling the time, retrieving information from Wikipedia, cracking jokes, and more.",
+      "skills": ["Python"],
+      "demo": "#",
+      "source": "https://github.com/CHAMOLI07yash/virtual_ai_chatbot_siri"
+    },
+
+    {
+      "title": " Simon Game ",
+      "imageSrc": "projects/project.png",
+      "description": " This is a simple Game just for fun implemented in javascript.",
+      "skills": ["JavaScript"],
+      "demo": "https://chamoli07yash.github.io/simon_game/",
+      "source": "https://github.com/CHAMOLI07yash/simon_game"
+    },
+    
+    {
+      "title": " Tic Tac Toe Game ",
+      "imageSrc": "projects/project.png",
+      "description": " This is a simple tic tac toe Game just for fun implemented in javascript.",
+      "skills": ["JavaScript"],
+      "demo": "https://chamoli07yash.github.io/tictactoe/",
+      "source": "https://github.com/CHAMOLI07yash/tictactoe"
+    }
+    
+  ]
