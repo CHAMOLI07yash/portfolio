@@ -39,7 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText } >
               <h3>Problem Solving</h3>
               <p>
-                I have done 1000+ problem in leetcode DSA 150+ in gfg  and contest rating is 1800(max). and learning MERN Stack
+                I have done 1200+ problem in Leetcode DSA 150+ in GeekForGeeks  and contest rating is 1840(max). and learning MERN Stack
               </p>
             </div>
           </li>
